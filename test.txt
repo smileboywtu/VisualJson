@@ -1,0 +1,30 @@
+with label
+==========
+{"no surface": {0: 'no', 1: {'flipper': {0: 'no', 1: 'yes'}}}}
+
+without label
+=============
+{"name": "smileboy", "grade":{"math":100, "english":98}}
+
+
+json
+====
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "isAlive": "true",
+  "age": 25,
+  "address": {
+    "streetAddress": "21 2nd Street",
+    "city": "New York",
+    "state": "NY",
+    "postalCode": "10021-3100"
+  },
+  "phoneNumbers": 
+    {
+      "type": "home",
+      "number": "212 555-1234"
+    },
+  "children": "[]",
+  "spouse": "null"
+}

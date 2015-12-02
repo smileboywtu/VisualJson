@@ -1,0 +1,14 @@
+graph {
+	node [shape=circle]
+rank=same
+rankdir=TD
+	"no surface0" [label=no]
+		"no surface" -- "no surface0" [label=0]
+		"no surface" -- flipper [label=1]
+rank=same
+rankdir=TD
+	flipper0 [label=no]
+		flipper -- flipper0 [label=0]
+	flipper1 [label=yes]
+		flipper -- flipper1 [label=1]
+}
