@@ -25,8 +25,8 @@ another kind of data string like:
 {"name": "smileboy", "grade":{"math":100, "english":98}}
 ```
 
-thid kind of data without the label on the edge, can deal with 
-json string will all item string type.
+this kind of data without the label on the edge, can deal with 
+json string with all item string type.
 
 for future, hope this tool can deal with the general json file.
 this is really cool.
